@@ -4,20 +4,100 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d75236c-88f3-4346-ace7-57c50854bc2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/testgit_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5d75236c-88f3-4346-ace7-57c50854bc2f" name="Changes" comment="New File added -- &quot;firstFile.py&quot;">
+      <change afterPath="$PROJECT_DIR$/secondfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "goyal600"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/goyal600/testgit_project",
+    "accountId": "2e9eb97d-7d39-4db4-9d6b-2a872297bd79"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0053830851423984" />
+      <entry key="MS500" value="1.6501397077171978" />
+      <entry key="S2" value="3.592849650088745" />
+      <entry key="S5" value="5.532832198896283" />
+      <entry key="S10" value="8.01470529055749" />
+      <entry key="S30" value="14.673157793433072" />
+      <entry key="S60" value="18.7204492950877" />
+      <entry key="M2" value="21.508928921153775" />
+      <entry key="M5" value="23.50772002749638" />
+      <entry key="M10" value="24.237579708171445" />
+      <entry key="M15" value="24.513391281278246" />
+      <entry key="M30" value="25.6416648377058" />
+      <entry key="H1" value="30.215278177226416" />
+      <entry key="H2" value="37.99947776170618" />
+      <entry key="H4" value="45.408582629745624" />
+      <entry key="D1" value="54.690216274527764" />
+      <entry key="W1" value="56.65936430946015" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7725686412608367" />
+      <entry key="MS500" value="1.5635980388282884" />
+      <entry key="S2" value="3.4943733406690627" />
+      <entry key="S5" value="5.431198414524426" />
+      <entry key="S10" value="7.939015720017298" />
+      <entry key="S30" value="14.637316083208178" />
+      <entry key="S60" value="18.70026614570662" />
+      <entry key="M2" value="21.498130497030512" />
+      <entry key="M5" value="23.50320724316411" />
+      <entry key="M10" value="24.235288670816292" />
+      <entry key="M15" value="24.51185333201217" />
+      <entry key="M30" value="25.640845917845933" />
+      <entry key="H1" value="30.21475355490028" />
+      <entry key="H2" value="37.99911764387795" />
+      <entry key="H4" value="45.408356333695025" />
+      <entry key="D1" value="54.69016895697654" />
+      <entry key="W1" value="56.659357259676554" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7,
@@ -31,12 +111,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.firstFile.executor": "Run",
+    "Python.secondfile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "testing",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,11 +144,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790841867061</updated>
-      <workItem from="1790841868098" duration="1938000" />
+      <workItem from="1790841868098" duration="4404000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit.">
+      <option name="closed" value="true" />
+      <created>1790843975965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790843975965</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New File added -- &quot;firstFile.py&quot;">
+      <option name="closed" value="true" />
+      <created>1790845191655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790845191656</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit." />
+    <MESSAGE value="New File added -- &quot;firstFile.py&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="New File added -- &quot;firstFile.py&quot;" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/testgit_project$firstFile.coverage" NAME="firstFile Coverage Results" MODIFIED="1790845015908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/testgit_project$secondfile.coverage" NAME="secondfile Coverage Results" MODIFIED="1790854049590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
